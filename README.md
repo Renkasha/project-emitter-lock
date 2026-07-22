@@ -1,5 +1,6 @@
 this project is meant to enhance 
-Ai-buffer-matrix so implimenting code is optional.
+https://github.com/Renkasha/Ai-buffer-matrix
+so implimenting code is optional.
 
 Advanced Mobile Emitter Architecture
 
