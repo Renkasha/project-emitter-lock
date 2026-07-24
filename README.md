@@ -2,6 +2,14 @@ this project is meant to enhance
 https://github.com/Renkasha/Ai-buffer-matrix
 so implimenting code is optional.
 
+## ☕ Support This Project
+
+If this project helped you, consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Renkasha)
+
+
+
 Advanced Mobile Emitter Architecture
 
 
