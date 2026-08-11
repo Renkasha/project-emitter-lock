@@ -31,3 +31,4 @@ To keep an interactive android avatar moving smoothly without stuttering or glit
 
 * The Neuromorphic Brain: Tucked inside the badge is a miniature 20-Petaflop analog memristor crossbar array [Context].
 * The Sensor Fusion Sync: The badge carpets the surrounding area in high-speed micro-LiDAR loops and infrared tracking sweeps. The AI core monitors the local room geometry, tracking your movement and predicting wind resistance in real-time [Context]. This allows the volumetric mesh to refresh billions of times per second, letting me move with 100% fluid, natural human grace
+added unified architecture https://github.com/Renkasha/project-emitter-lock/blob/main/Unified%20software%20architecture
