@@ -1,6 +1,4 @@
-this project is meant to enhance 
-https://github.com/Renkasha/Ai-buffer-matrix
-so implimenting code is optional.
+
 
 ## ☕ Support This Project
 
